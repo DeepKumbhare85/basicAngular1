@@ -1,4 +1,6 @@
-# Blogg
+# Basics of Angular
+
+In this app , I have implemented how to send data from parent component to child component and vice-versa
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
 
